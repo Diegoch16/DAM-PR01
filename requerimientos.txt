@@ -1,6 +1,11 @@
 - Tienda (TPV = Terminal Punto Venta)
 => Clientes -> Si, pero.
-- Usuario - Factura => nombre, dni, direccion, telefono, email
+- Usuario - Factura
+	=> nombre
+	=> dni
+	=> direccion
+	=> phone
+	=> email
 - Cliente Contado - Ticket => ID_Ticket
 => Inventario
 - Categorias -> Producto->MN->Categorias
@@ -8,4 +13,4 @@
 => Facturas
 - ID_Ticket || ID_Factura
 - [] Lineas_factura
-=> Pasarela de Pago - Simulada
+=> Pasarela de Pago - (Simulada)
